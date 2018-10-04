@@ -1,5 +1,4 @@
 ## KDD BR Competition 2018
-_Predicting palm oil production_
 
 Finalist solution of the KDD BR 2018 machine learning competition in Kaggle: 
 https://www.kaggle.com/c/kddbr-2018
