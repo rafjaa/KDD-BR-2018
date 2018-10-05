@@ -5,7 +5,7 @@ https://www.kaggle.com/c/kddbr-2018
 
 ## TSI Team
 
-- <a href="http://lattes.cnpq.br/3995585094514614">Rafael Alencar</a>
+- <a href="https://www.kaggle.com/rafjaa">Rafael Alencar</a>
 - <a href="https://github.com/jpdik">João Paulo de Melo</a>
 - <a href="https://github.com/GuilhermeDomith">Guilherme Domith</a>
 
