@@ -3,6 +3,8 @@
 Finalist solution of the KDD BR 2018 machine learning competition in Kaggle: 
 https://www.kaggle.com/c/kddbr-2018
 
+__Code:__ https://github.com/rafjaa/KDD-BR-2018/blob/master/solution.ipynb
+
 ## TSI Team
 
 - <a href="https://www.kaggle.com/rafjaa">Rafael Alencar</a>
