@@ -1,6 +1,6 @@
 ## KDD BR Competition 2018
 
-Finalist solution of the KDD BR 2018 machine learning competition in Kaggle: 
+Winning solution of the Kaggle KDD BR 2018 machine learning competition: 
 https://www.kaggle.com/c/kddbr-2018
 
 __Code:__ https://github.com/rafjaa/KDD-BR-2018/blob/master/solution.ipynb
